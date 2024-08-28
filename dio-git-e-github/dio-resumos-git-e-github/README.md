@@ -12,6 +12,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 | ------------- | ------------- |
 | Gravando Alterações no Repositório Local  | [Resumo](https://github.com/johanngomig/Dio-Bootcamp-EngDados/blob/main/dio-git-e-github/dio-resumos-git-e-github/resumos/Resumo%20Aula%2001.md)  |
 | Desfazendo Alterações no Repositório Local  | [Resumo](https://github.com/johanngomig/Dio-Bootcamp-EngDados/blob/main/dio-git-e-github/dio-resumos-git-e-github/resumos/Resumo%20Aula%2002.md)  |
+| Enviando e Baixando Alterações com o Repositório Remoto  | [Resumo]()  |
 
 
 ## 🔍 Referências
