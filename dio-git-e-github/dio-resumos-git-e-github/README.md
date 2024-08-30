@@ -19,6 +19,3 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 ## 🔍 Referências
 - [Digital Innotavion One](https://www.dio.me/).
-<<<<<<< HEAD
-
-local commit
