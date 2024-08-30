@@ -3,7 +3,7 @@
 Repositório para armazenar resumos, projetos e anotações sobre o Bootcamp NTT DATA - Engenharia de Dados com Python da [Digital Innovation One](https://www.dio.me/) em parceria com a [NTT DATA](https://br.nttdata.com/).
 
 ## 📚 Índice
-- [Git e Github]()
+- [Git e Github](https://github.com/johanngomig/Dio-Bootcamp-EngDados/tree/main/dio-git-e-github)
 
 
 > ## 🖥 Minha visão
