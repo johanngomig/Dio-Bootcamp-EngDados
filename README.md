@@ -1,4 +1,4 @@
-# DIO | Resumos Git e GitHub
+# DIO | Engenharia de Dados com Python
 
 Repositório para armazenar resumos, projetos e anotações sobre o Bootcamp NTT DATA - Engenharia de Dados com Python da [Digital Innovation One](https://www.dio.me/) em parceria com a [NTT DATA](https://br.nttdata.com/).
 
