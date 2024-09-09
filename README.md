@@ -4,6 +4,8 @@ Repositório para armazenar resumos, projetos e anotações sobre o Bootcamp NTT
 
 ## 📚 Índice
 - [Git e Github](https://github.com/johanngomig/Dio-Bootcamp-EngDados/tree/main/dio-git-e-github)
+- [Lab Open Source](https://github.com/johanngomig/dio-lab-open-source/tree/68b8cf3216eca4bd514246f8828cea18280b8d97)
+- [Python Ojbeto date, datetime e time](https://github.com/johanngomig/Dio-Bootcamp-EngDados/tree/main/dio-objetos-date-datetime-time).
 
 
 > ## 🖥 Minha visão
